@@ -3,7 +3,7 @@
     {
       "path": "pages/index/index",
       "style": {
-        "navigationBarTitleText": "Press UI"
+        "navigationBarTitleText": "Press UI Vue2 Uni"
       }
     }
   ],
