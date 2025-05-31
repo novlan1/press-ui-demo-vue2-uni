@@ -10,61 +10,61 @@ importers:
     dependencies:
       '@dcloudio/uni-app':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004(@dcloudio/types@3.4.14)(@vue/composition-api@1.7.2(vue@2.6.14))
+        version: 2.0.2-4060620250520001(@dcloudio/types@3.4.14)(@vue/composition-api@1.7.2(vue@2.6.14))
       '@dcloudio/uni-app-plus':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-h5':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-i18n':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-360':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-alipay':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-baidu':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-jd':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-kuaishou':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-lark':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-qq':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-toutiao':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-vue':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-weixin':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-mp-xhs':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-quickapp-native':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004(@vue/compiler-sfc@3.5.13)(ejs@3.1.10)(lodash@4.17.21)(mustache@3.2.1)(webpack@4.47.0)
+        version: 2.0.2-4060620250520001(@vue/compiler-sfc@3.5.13)(ejs@3.1.10)(lodash@4.17.21)(mustache@3.2.1)(webpack@4.47.0)
       '@dcloudio/uni-quickapp-webview':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-stacktracey':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-stat':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@popperjs/core':
         specifier: ^2.11.8
         version: 2.11.8
@@ -87,8 +87,8 @@ importers:
         specifier: ^1.3.9
         version: 1.3.20(@babel/parser@7.26.2)(@types/babel__core@7.20.5)(@types/node@22.9.0)(html-webpack-plugin@5.6.3(webpack@4.47.0))(jest@25.5.4(canvas@2.11.2))(rollup@2.79.2)(sass@1.81.0)(sugarss@2.0.0)(terser@5.36.0)(typescript@5.6.3)(vue-template-compiler@2.6.14)(vue@2.6.14)(webpack@4.47.0)
       press-ui:
-        specifier: 3.0.13
-        version: 3.0.13
+        specifier: 3.0.17
+        version: 3.0.17
       qrcode:
         specifier: ^1.5.3
         version: 1.5.4
@@ -105,8 +105,8 @@ importers:
         specifier: ^0.1.1
         version: 0.1.1
       t-comm:
-        specifier: ^1.5.14
-        version: 1.5.14
+        specifier: ^1.5.28
+        version: 1.5.28
       tinycolor2:
         specifier: ^1.6.0
         version: 1.6.0
@@ -125,43 +125,49 @@ importers:
       vuex:
         specifier: ^3.2.0
         version: 3.6.2(vue@2.6.14)
+      weapp-qrcode-canvas-2d:
+        specifier: ^1.1.6
+        version: 1.1.6
     devDependencies:
+      '@babel/runtime':
+        specifier: ~7.17.9
+        version: 7.17.9
       '@dcloudio/types':
         specifier: ^3.4.8
         version: 3.4.14
       '@dcloudio/uni-automator':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004(adbkit@2.11.1)(node-simctl@6.6.0)(puppeteer@1.20.0)
+        version: 2.0.2-4060620250520001(adbkit@2.11.1)(node-simctl@6.6.0)(puppeteer@1.20.0)
       '@dcloudio/uni-cli-i18n':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-cli-shared':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-helper-json':
         specifier: '*'
         version: 1.0.13
       '@dcloudio/uni-migration':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/uni-template-compiler':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/vue-cli-plugin-hbuilderx':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/vue-cli-plugin-uni':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004(copy-webpack-plugin@9.1.0(webpack@4.47.0))(postcss@7.0.39)
+        version: 2.0.2-4060620250520001(copy-webpack-plugin@9.1.0(webpack@4.47.0))(postcss@7.0.39)
       '@dcloudio/vue-cli-plugin-uni-optimize':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/webpack-uni-mp-loader':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@dcloudio/webpack-uni-pages-loader':
         specifier: ^2.0.2-4010520240507001
-        version: 2.0.2-4020420240722004
+        version: 2.0.2-4060620250520001
       '@plugin-light/webpack-plugin-dispatch-script':
         specifier: ^0.0.5
         version: 0.0.5
@@ -885,10 +891,6 @@ packages:
     resolution: {integrity: sha512-lSiBBvodq29uShpWGNbgFdKYNiFDo5/HIYsaCEY9ff4sb10x9jizo2+pRrSyF4jKZCXqgzuqBOQKbUm90gQwJg==}
     engines: {node: '>=6.9.0'}
 
-  '@babel/runtime@7.26.0':
-    resolution: {integrity: sha512-FDSOghenHTiToteC/QRlv2q3DhPZ/oOXTBoirfWNx1Cx3TMVcGWQtMMmQcSvb/JjpNeGzx8Pq/b4fKEJuWm1sw==}
-    engines: {node: '>=6.9.0'}
-
   '@babel/template@7.25.9':
     resolution: {integrity: sha512-9DGttpmPvIxBb/2uwpVo3dqJ+O6RooAFOS+lB+xDqoE2PVCE8nfoHMdZLpfCQRLwvohzXISPZcgxt80xLfsuwg==}
     engines: {node: '>=6.9.0'}
@@ -916,107 +918,107 @@ packages:
   '@dcloudio/types@3.4.14':
     resolution: {integrity: sha512-VolQeZfTh8pQFsr2IlfIVX93blfvGTuBoJuZUc7iWOqtHV8gDrq6fXLhzsVlgZyuhhRZLOxlo33rkEqnY+ucAw==}
 
-  '@dcloudio/uni-app-plus@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-X5LIapfzgXvFvpTpUSadS5I2VfYqNIczo65FGC90TCJTRIxJ1BHYCSLPlmA/f1LROrJQDIQQjP7GQbBb388HTw==}
+  '@dcloudio/uni-app-plus@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-CaCjJM/UyLdrltWjR2sVZt1wjmb8RKMKgX9fyE7LmVFlMwiF2+wtD501xUbR0pnNq+7yR9IXeAHuodWtjc4uEg==}
 
-  '@dcloudio/uni-app@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-WzHNoEbOWkMWSW98AzWtexsLfaJfi/ujOHw7e8ffgYZVZYIyob2RGa3mQ61tb3j7/lZyRn48NsT2TXCc/ZaUxg==}
+  '@dcloudio/uni-app@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-i2eikjnQ3iM4LkzlI//th10QWwFbKUkBs34EdTRep5oAgt1ugAkqHPwyovDOqeaTF9GwP8w/t1tTiQNt0XG1Sw==}
     peerDependencies:
       '@dcloudio/types': ^3.0.15
       '@vue/composition-api': ^1.7.0
 
-  '@dcloudio/uni-automator@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-SRk8P+IbuUD+l+wwDQZmNgc3nIerPIOIYYn9unXdk9qDSEamUFOdpWNrGbR7H6HA2CyPArRrNQlxWkodzIcFtQ==}
+  '@dcloudio/uni-automator@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-lpN0sssLxEmDJr9t5H8rxCdcIIScKIkwyOe3D/BCBo3XTe8uY/EGB4l2d7jVEvUn5mZ8YhTG1bzOT6l6B0Qi/w==}
     peerDependencies:
       adbkit: ^2.11.1
       node-simctl: ^6.1.0
       puppeteer: ^3.0.1
 
-  '@dcloudio/uni-cli-i18n@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-+uYmUuk8u3mTKaDYtSq3TTb0iJbl/bG4AQERRWyzPGhuw7vhCyWPPdRKCJFzalM6aE/JedDpRA1zovu9vT5SJg==}
+  '@dcloudio/uni-cli-i18n@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-icXnOf1lSqc1E1Y3bZkUwDcIMZ94Gr3pG/h+p5b7Fy6fdWUbLw22IYT9kkB5VoG6GhP85DV7J4+rlYMtTqihxA==}
 
-  '@dcloudio/uni-cli-shared@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-Pv0eUK5dUdde+W7O3cTyWMugroGxs2q6VGiQ7rMVWm7ZubXSh86P+OMP8VnENDNnDGbcJkV8w78RJemliwwjtA==}
+  '@dcloudio/uni-cli-shared@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-GNVZsHNad845kY5je4aVZR/fqZdlhVXlPlZ4OiQ1CKuSnlYZX2YxZNsLM36Uw1Y9MUzoRcMNwMPG+Q5oavtPNA==}
 
-  '@dcloudio/uni-h5@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-idQcYzk+J299HYDDXIpcu9oEFo6wT2dRTrW2OAfnTyGRLKU7eF2aHEN5Qkh9LOL8s9JBAfil1WU6yB/M/oiDJQ==}
+  '@dcloudio/uni-h5@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-/MSc0jhm1tTrFioSfz8ywCGYDkoOCIuNFfUiq1iX4hVbit524L0ObtE96E/sQZxceVvKnSa6gj+W5oyNuviafA==}
 
   '@dcloudio/uni-helper-json@1.0.13':
     resolution: {integrity: sha512-FO9Iu4zW4td3Tr+eiCDWuele2ehkJ4qxQ/UhpAMLjso+ZdWz6NagK5Syh6cdy1hoDqbxpNoqnLynuJXe81Ereg==}
 
-  '@dcloudio/uni-i18n@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-Ngrmhk9pqCS6Br+50jbu8UaIKq+ZSZu6FDiTLQbrWfIGZFtVTEgrZnyB9AR4D/1KHEHIk3V2WaGDlaRLpPq7mw==}
+  '@dcloudio/uni-i18n@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-zUG58g3RjSBHYC9MQXPPV3oyrIa1PPQRxEk5rawv4Wmu67V27SL1WQzCeFLu3OzFIrcnLknbdf/Tn4bXskbzeA==}
 
-  '@dcloudio/uni-migration@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-Sw/3dXRNfzr3Suwny1faYEd9HvA726emTZh3RnQSOse3xlym1FXFdKq7cFEh+97l3QBtoH3p+1mt4cKFx3GmTw==}
+  '@dcloudio/uni-migration@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-mU8tu4qfEsWNuew6MTuiQ8c6LNgX2Zz+FsykY/CcH7e9obGCB+ubiq8bgzincOi9eLAS7RWNvfb0hYO8dZca3w==}
     hasBin: true
 
-  '@dcloudio/uni-mp-360@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-lZYx70vOAcgNLP+i72lL0YtR6t7UvME6bXlW9tiW4IoMZ1x72oPPzFkotd8+O4U1UUYr6RVjwaFnt21fIWs9Tg==}
+  '@dcloudio/uni-mp-360@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-QU2W61wIlhfJ96yGnT7hDQqtkofOMahqxpUpM86bLVxzVMUoQgL+ABZai+u5ym5VXvWStHMrssa90raetywMmw==}
 
-  '@dcloudio/uni-mp-alipay@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-OyGUwHuoKG5M8oZlvTSVA0BqDU7DqWjhMUlOD7jUuIFYk1mNrJc0OLHkGGlLv/YmhGEk8q/zROVyhVGvOQL1vg==}
+  '@dcloudio/uni-mp-alipay@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-C++ImRmvjwU7KvZka44XSUmTrX5G3I0w0d9eq1ApUFsUtnyvSzUxDpjIWrL+14CWXzhFzwDOpuV/ccUb9gyWfg==}
 
-  '@dcloudio/uni-mp-baidu@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-VNucb7pXRgxs4Ld81eKU3Ozl58qgcHkC7zJyTZMGZDf3bBuHMJF7kd9b/LEGB0YAwh/L3MH4wbNB+aW4XDoGVA==}
+  '@dcloudio/uni-mp-baidu@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-5VsdJap7U4jK42WXnfbkAq+ZNV+PfsyqV5352rUetN2ViBY0jrRSzHARULjNvbg6mKLuG/KTG3QJNMJoYkHRAQ==}
 
-  '@dcloudio/uni-mp-jd@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-YH4XSvGuxGTrt6OzUgHSDCD4fqGH34I5Qh9ouT8O37W+AbcaZ5L2W8KOBCpASryHA23dpO1XMTdVts5IZ9sLAA==}
+  '@dcloudio/uni-mp-jd@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-02x070mRWFwia1setHfsQhJtnibZ+WwRbKCoe7EutTVtrYHDwDNJas3goYa1yQ99BMhyn0u4kv/pgojKnPe9mg==}
 
-  '@dcloudio/uni-mp-kuaishou@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-NUzYUlOQT5TbR9DMSSKeuGqxEpHWCg5+FM3Pb42QAXjuJsZkJDNagMkRUjIcda9dknap5N6yloO/1jzhqdlP3A==}
+  '@dcloudio/uni-mp-kuaishou@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-emwkjF9BfX0rNexUbrd+Jnna75hb11XxB5+1fB3FGjE957wp6j8ej1WW2C8Xf5BXrkguXEBOfA7KKvCBStC+Tw==}
 
-  '@dcloudio/uni-mp-lark@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-ieGR5lG7afFQ0IggiU34h0A65RQSTFT9LLbmA38MUDqr6I332EVOBrGSDzpbdyTMWnfJrzxYN4E9xe40opudIQ==}
+  '@dcloudio/uni-mp-lark@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-pYOOXnMvbFIvBpM3GHrpW7TGFCSpUGapAfyq85AXFcx8eE1hsgDfHm3dTARCnQxOPudU7dgAqs6sSstIZRXByA==}
 
-  '@dcloudio/uni-mp-qq@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-ZRZI64pFgu23C48MJMDj6p/6uaZYyN4ZPFwsq0SO3d7GqoDboxAWRCswi57b3SxjugPZo0fbz6aUDJcQANdyQg==}
+  '@dcloudio/uni-mp-qq@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-kCT3KPnp/r3aes8aNO83EL3tUqanRyDkJ6XQiEFnb12rfGkodUKET3tGOaR3a4rEpLjohnNU4RaYw6JLF1/xhg==}
 
-  '@dcloudio/uni-mp-toutiao@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-6eYISatsG6PPJ+ah7procoS3YJ++9cbPGzMzWU0+PflnHcPJ3DNtqR8NuXkgvI5W14mjGCCFm+nNJQrO1e0GUw==}
+  '@dcloudio/uni-mp-toutiao@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-1n7v7RJxuRmRb8u3FM2tmHJ2A9yZZ36xfqQRQOnBFQnmFbM3NpNMLb4+ktYp2L/oFrzS8F4dbD19zBoRwCvJ+A==}
 
-  '@dcloudio/uni-mp-vue@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-QHBNjP96PckmtUrvNs2VGhnxUgE/PBx6E61It2sYrdKwDSNmC6APIzLSAJC0KxpDZTHpLcCVzVqCEAPlMxfSNw==}
+  '@dcloudio/uni-mp-vue@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-7ufp9cvIgakovyNENMmu/grCfCly+htx/GqQKaQy+uDN6eXuh1Zay9fJkfKleHBEqC2fTsRZtOkDrGARx4acbw==}
 
-  '@dcloudio/uni-mp-weixin@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-BMep5WcqmGW37FLiwroOY12ID1xIAMeUD734+Et1F4GVbQWyJ3U4IPLH93JRzJEwfzGOovwzcbxL9NmAbYGE2g==}
+  '@dcloudio/uni-mp-weixin@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-tDxMPPOMxplENvOV6CiMsAnXYZtJrEEXs/Tc9lpqUdHN1Yr4Q3B/jwEr9fjAm52I0zMQ7aRCViZ0vVraWhzRlQ==}
 
-  '@dcloudio/uni-mp-xhs@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-uSD7FPuf3eYF2hUIEW/P7LjWzEdje1QzFcqG4V6Mn32H2IxKMqQEx1b+6jzHoLCv5Iz91JUUzjWgsrDVoirrvg==}
+  '@dcloudio/uni-mp-xhs@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-WxfiURmJ2ololj5oIA1NrwIkUWp+geaU88KILYbfaevNEJjFSgr6dfEjOCL7+/dQrc+h5WjBfcg1DHXVA1sWiw==}
 
-  '@dcloudio/uni-quickapp-native@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-F0V4995BeHRak52dGLoDiIrq8/16u6SCGjR7QHQ2SLo8tY7ItSAIUBOLTVkDzYmGIRVV5cXlert4gm7cFDiWDg==}
+  '@dcloudio/uni-quickapp-native@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-VgEUiF6XlxZnQHeRXZZwwdAXVKSFa+WIN8TVimVjeaebXB5N/3SvxqUhyWl1uWdxS4OLTVBMpSju0SuKJaYQDQ==}
 
-  '@dcloudio/uni-quickapp-webview@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-wsZqa4gsQovL+I+FMOCGgqeek3/Jesm7BdV1Avfh4FbBRDTjDiHZKTOhjnRsdl2sYRGEL+scG5JsBrX5RjO57Q==}
+  '@dcloudio/uni-quickapp-webview@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-oXDtvcgBe63voYv4OapfWk3zfhH0Dl+/soxa1hi1j7xpjQJw+zRis0FkQbKPKCkT3mfW9sxQ+MudcdFhKaFW2Q==}
 
-  '@dcloudio/uni-stacktracey@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-Ra0pEM2zQZFy3YYqclN3XGbykjMfdamNe1vnWW6ue6pcuDgMflwRhzJZ7LvFqVHdvRJ1DWYDX7J750EK7EdJAw==}
+  '@dcloudio/uni-stacktracey@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-A5isNN3QIdjZ9RxQ8WgWBUNYf6GY2trl3Y93zAlwnml7OnCG/6VLAWg2gfyPrt2Ee0KEYfSdPSTLwt6WPHi6sg==}
 
-  '@dcloudio/uni-stat@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-lX2n58fLA/JPigz+pHwrLum3VpUteym6AsYGxvdRu5QjrghW2/9FNOPBDmPWEEIE6W+maiO8aVPS10/Q1xpl/Q==}
+  '@dcloudio/uni-stat@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-ukOubaOlFr+B/EaxtkWT1kn92S4MlbF/+o0r/ZOfknj3bZQzzpIwukWtqmsT2twj9lSma2R6teGAbtUcKwy/Dw==}
 
-  '@dcloudio/uni-template-compiler@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-tA+eR7H95X8MjNzKwJSBv6fdew+A6xZM+DwYNf7MazCHaujozRMoa6taw1UE0HncmBGSEjtIJFUH7/M3wn4NmA==}
+  '@dcloudio/uni-template-compiler@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-mfzeR60SvxxB3p4Kh8z3NFceA8M2kAR0LLhdJ1JI7t2dWUEjG5l6IASQJZscJ+oMnPSdcg+zCj/AHWR+ypS/nw==}
 
-  '@dcloudio/vue-cli-plugin-hbuilderx@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-Fp8NBiCUIpDM6uqKONe0zqSFLIWqGEXHcF/MO7R0L/E46x7n6Fd7UlHX2HTcOCjkfRandE5BcftyqblIuq8Apw==}
+  '@dcloudio/vue-cli-plugin-hbuilderx@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-q6WSIaKmadT+7vM7QYd4+jk+224t9Pi6tlK26q6Z+fePrI33jVyX2ZgvnZ0O8XRlo+HB12wOiO0BVUlKjyD9BA==}
 
-  '@dcloudio/vue-cli-plugin-uni-optimize@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-Su4goLBGce+7oGZTeSYHGq2XEiKqF2L3kXJhd7e5anygVGuvWxIW5RqXAhKX/221QLEGrapCuPhLctkK0d41Mw==}
+  '@dcloudio/vue-cli-plugin-uni-optimize@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-WAfeQnYCEQiyqEz6AtlDo4/2sEiihZsAOmwc6xKc13bVQO8XkLmGlWwxDBWsbWCOofjrEDnzZ+T/psU/bFwkYg==}
 
-  '@dcloudio/vue-cli-plugin-uni@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-Sb/uvp1QTIlxLUYiEfHtdUIWP0l1tNFt0/++YVssEX+Vv9lMHZvvYBegdt3d/XPk8ejWFS4KkA+caXQG42+Bhw==}
+  '@dcloudio/vue-cli-plugin-uni@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-j4TiFl3+oSRdTrd9ZzxA6oRhQm+A59hx92yvF6xtIqZ8iP3lucMBoKkYQA4M8MPCjslw2PAD6+ZIz4Ui0S6EpQ==}
     hasBin: true
     peerDependencies:
       copy-webpack-plugin: '>=5'
       postcss: '>=7'
 
-  '@dcloudio/webpack-uni-mp-loader@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-QAgKHLeSqhXcLPHiq2qwF8ueQKoG3mLsQg1+tV5hockhlEHE3c/01akRo4MknkyypVnD5FFC2D5twfV4ai7EOw==}
+  '@dcloudio/webpack-uni-mp-loader@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-d1Id0Wsnd52kp7+fpEcFJqQfhKbJG51NqZJyx9xxkyM8u4bkWcXhGzS8KnOtRAgoKpZxzwFrwZcom32sh3f/uw==}
 
-  '@dcloudio/webpack-uni-pages-loader@2.0.2-4020420240722004':
-    resolution: {integrity: sha512-ELv+ZduUwtG+AsCTeeqU9b3pFgFfomIIkzmV4g3XPm4XAWE43X4SMfxKhDp/43neJKbfNy86pZ3vqdp8JFX2Yg==}
+  '@dcloudio/webpack-uni-pages-loader@2.0.2-4060620250520001':
+    resolution: {integrity: sha512-RWcUqRNtXBLgoRctkTlPTzm5PyTrsBeXYcYoL5qzpiG5wzouu2S3NQWlJ7Te3fqBidPtmOys+Eh1SWbq+kYibQ==}
 
   '@discoveryjs/json-ext@0.5.7':
     resolution: {integrity: sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==}
@@ -2633,7 +2635,7 @@ packages:
     resolution: {integrity: sha512-OdmIXARBH9avcdIyteOwwIO3ew6glavtO5cs0rRN2k/S/uD09qZZqusiZrG8V3F57HPxrPGXwrFnMdDx7ajY8g==}
 
   after@0.8.2:
-    resolution: {integrity: sha1-/ts5T58OAqqXaOcCvaI7UF+ufh8=}
+    resolution: {integrity: sha512-QbJ0NTQ/I9DI3uSJA4cbexiwQeRAfjPScqIbSjUDd9TOrcg6pTkdgziesOqxBMBzit8vFCTwrP27t13vFOORRA==}
 
   agent-base@4.3.0:
     resolution: {integrity: sha512-salcGninV0nPrwpGNn4VTXBb1SOuXQBiqbrNXoeizJsHrsL6ERFM2Ne3JUSBWRE6aeNJI2ROP/WEEIDUiDe3cg==}
@@ -3030,7 +3032,7 @@ packages:
     resolution: {integrity: sha512-ITKNuq2wKlW1fJg9sSW52eepoYgZBggvOAHC0u/CYu/qxQ9EVzThCgR69BnSXLHjy2f7SY5zaQ4yt7H9ZVxY2g==}
 
   backo2@1.0.2:
-    resolution: {integrity: sha1-MasayLEpNjRj41s+u2n038+6eUc=}
+    resolution: {integrity: sha512-zj6Z6M7Eq+PBZ7PQxl5NT665MvJdAkzp0f60nAJ+sLaSCBPMwVak5ZegFbgVCzFcCJTKFoMizvM5Ld7+JrRJHA==}
 
   bail@1.0.5:
     resolution: {integrity: sha512-xFbRxM1tahm08yHBP16MMjVUAvDaBMD38zsM9EMAUN61omwLmKlOpB/Zku5QkjZ8TZ4vn53pj+t518cH0S03RQ==}
@@ -3529,16 +3531,16 @@ packages:
     resolution: {integrity: sha512-zHig5N+tPWARooBnb0Zx1MFcdfpyJrfTJ3Y5L+IFvUm8rM74hHz66z0gw0x4tijh5CorKkKUCnW82R2vmpeCRA==}
 
   component-bind@1.0.0:
-    resolution: {integrity: sha1-AMYIq33Nk4l8AAllGx06jh5zu9E=}
+    resolution: {integrity: sha512-WZveuKPeKAG9qY+FkYDeADzdHyTYdIboXS59ixDeRJL5ZhxpqUnxSOwop4FQjMsiYm3/Or8cegVbpAHNA7pHxw==}
 
   component-emitter@1.2.1:
-    resolution: {integrity: sha1-E3kY1teCg/ffemt8WmPhQOaUJeY=}
+    resolution: {integrity: sha512-jPatnhd33viNplKjqXKRkGU345p263OIWzDL2wH3LGIGp5Kojo+uXizHmOADRvhGFFTnJqX3jBAKP6vvmSDKcA==}
 
   component-emitter@1.3.1:
     resolution: {integrity: sha512-T0+barUSQRTUQASh8bx02dl+DhF54GtIDY13Y3m9oWTklKbb3Wv974meRpeZ3lp1JpLVECWWNHC4vaG2XHXouQ==}
 
   component-inherit@0.0.3:
-    resolution: {integrity: sha1-ZF/ErfWLcrZJ1crmUTVhnbJv8UM=}
+    resolution: {integrity: sha512-w+LhYREhatpVqTESyGFg3NlP6Iu0kEKUHETY9GoZP/pQyW4mHFZuFWRUCIqVPZ36ueVLtoOEZaAqbCF2RDndaA==}
 
   compress-commons@2.1.1:
     resolution: {integrity: sha512-eVw6n7CnEMFzc3duyFVrQEuY1BlHR3rYsSztyG32ibGMW722i3C6IizEGMFmfMU+A+fALvBIwxN3czffTcdA+Q==}
@@ -5019,7 +5021,7 @@ packages:
     resolution: {integrity: sha512-oWb1Z6mkHIskLzEJ/XWX0srkpkTQ7vaopMQkyaEIoq0fmtFVxOthb8cCxeT+p3ynTdkk/RZwbgG4brR5BeWECw==}
     engines: {node: '>= 4.0'}
     os: [darwin]
-    deprecated: The v1 package contains DANGEROUS / INSECURE binaries. Upgrade to safe fsevents v2
+    deprecated: Upgrade to fsevents v2 to mitigate potential security issues
 
   fsevents@2.3.3:
     resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
@@ -5085,7 +5087,7 @@ packages:
     engines: {node: '>= 0.4'}
 
   get-them-args@1.3.2:
-    resolution: {integrity: sha1-dKILqKSr7OWuGZrQPyvMaP38m6U=}
+    resolution: {integrity: sha512-LRn8Jlk+DwZE4GTlDbT3Hikd1wSHgLMme/+7ddlqKd7ldwR6LjJgTVWzBnR01wnYGe4KgrXjg287RaI22UHmAw==}
 
   get-tsconfig@4.8.1:
     resolution: {integrity: sha512-k9PN+cFBmaLWtVz29SkUoqU5O0slLuHJXt/2P+tMVFT+phsSGXGkp9t3rQIqdz0e+06EHNGs3oM6ZX1s2zHxRg==}
@@ -5244,7 +5246,7 @@ packages:
     resolution: {integrity: sha512-G1LWKhDSvhGeAQ8mPVQlqNcOB2sJdwATtZKl2pDKKHfpf/rYj24lkinxf69blJbnsvtqqNU+L3SL50vzZhXOnw==}
 
   has-cors@1.1.0:
-    resolution: {integrity: sha1-XkdHk/fqmEPRu5nCPu9J/xJv/zk=}
+    resolution: {integrity: sha512-g5VNKdkFuUuVCP9gYfDJHjK2nqdQJ7aDLTnycnc2+RvsOQbuLdF5pm7vuE5J76SEBIQjs4kQY/BWq74JUmjbXA==}
 
   has-flag@1.0.0:
     resolution: {integrity: sha512-DyYHfIYwAJmjAjSSPKANxI8bFY9YtFrgkAfinBojQ8YJTOuOuav64tMUJv584SES4xl74PmuaevIyaLESHdTAA==}
@@ -7724,6 +7726,10 @@ packages:
     resolution: {integrity: sha512-DxPSgykgHjoV4Z+ygvq2C5HkiuiKQQD74xpoNQSQuyi8zab9nODVtNKfnCN6BEv9VZrjpOGLGAf8BDvgG6EtHg==}
     engines: {node: '>=0.12.9'}
 
+  postcss-urlrewrite@0.3.0:
+    resolution: {integrity: sha512-504S/dMa7a0n1yghE2I6fxY/DfMUM+w9qsFaoYnXE8KsCofmKLlA7PKbR+wtdEJ0N00Z1lGYxX/oFz13xArcLQ==}
+    engines: {node: '>=16'}
+
   postcss-value-parser@3.3.1:
     resolution: {integrity: sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ==}
 
@@ -7783,8 +7789,8 @@ packages:
   press-ui@1.3.39:
     resolution: {integrity: sha512-w22hKAPlUZcR/Ub7MliNFMIH75iugm2BKPHZCIRhQ/zsyhSt+1wbilpmXC3YztHhVpX1iddYA8Rrto7ZpPrJEw==}
 
-  press-ui@3.0.13:
-    resolution: {integrity: sha512-QD0hX7Y3i1tVlBDkZAljyvA0bL435Im6+t4Jk6d1ihnBGVUtiF24m9wFZjkRVmDmtBUehS0H9Tk0f/oE4yjDBQ==}
+  press-ui@3.0.17:
+    resolution: {integrity: sha512-i4eCxQrd//1sUB8Io1yXQ48n7vXJtH4Dnq4U3PvS7KxtWDdi4xkU+XbH5l7cso1ybZLiOujAs/fhP+SDBvRSGQ==}
     engines: {node: '>=14'}
 
   prettier@2.8.8:
@@ -8841,18 +8847,6 @@ packages:
   systemjs@6.15.1:
     resolution: {integrity: sha512-Nk8c4lXvMB98MtbmjX7JwJRgJOL8fluecYCfCeYBznwmpOs8Bf15hLM6z4z71EDAhQVrQrI+wt1aLWSXZq+hXA==}
 
-  t-comm@1.5.14:
-    resolution: {integrity: sha512-OHYW6NoCDixVizQx7QqzRlvbhLRADeuc1Zy+03U9tjvhuA26e3TN8hFoeS98DUZz6t+E0mLmLA67TKul6hoEbw==}
-    hasBin: true
-
-  t-comm@1.5.15:
-    resolution: {integrity: sha512-HsW+SVLbgdMUQO9SaEWvm7QklJjKB1Q7Vv4CsKdg8kFzd98UoaQg9nlreLvqvfMNQN7zXSyMB00c376s19sO0A==}
-    hasBin: true
-
-  t-comm@1.5.24:
-    resolution: {integrity: sha512-oXEYGSxvAeYHLi0+XPlwHTxInfj+wJw1KdDB8Lyg73exM/RtQbXolMck7n8BvsbAnr2Z0HSxQCMCay4x/BeLEQ==}
-    hasBin: true
-
   t-comm@1.5.28:
     resolution: {integrity: sha512-FLmxGj3z4HRf07b22l6wsrKrUmBW/Ik+vwvgogbRoC9f9K5y42Vxg+Sq20UnOVJHYdChYu25WBsd1PObnIesBQ==}
     hasBin: true
@@ -8984,7 +8978,7 @@ packages:
     resolution: {integrity: sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==}
 
   to-array@0.1.4:
-    resolution: {integrity: sha1-F+bBH3PdTz10zaek/zI46a2b+JA=}
+    resolution: {integrity: sha512-LhVdShQD/4Mk4zXNroIQZJC+Ap3zgLcDuwEdcmLv9CCO73NWockQDwyUnW/m8VX/EElfL6FcYx7EeutN4HJA6A==}
 
   to-arraybuffer@1.0.1:
     resolution: {integrity: sha512-okFlQcoGTi4LQBG/PgSYblw9VOyptsz2KJZqc6qtgGdes8VktzUQkj4BI2blit072iS8VODNcMA+tvnS9dnuMA==}
@@ -9568,6 +9562,10 @@ packages:
   wcwidth@1.0.1:
     resolution: {integrity: sha512-XHPEwS0q6TaxcvG85+8EYkbiCux2XtWG2mkc47Ng2A77BQu9+DqIOJldST4HgPkuea7dvKSj5VgX3P1d4rW8Tg==}
 
+  weapp-qrcode-canvas-2d@1.1.6:
+    resolution: {integrity: sha512-98/Al6OgYJwJIQFRypux43a21TZpeVy/63uYzAR4YQrIm9+vxq7bKH5v+hRwshWdku4TySDmhXC8la8wZmh5UQ==}
+    bundledDependencies: []
+
   webidl-conversions@3.0.1:
     resolution: {integrity: sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==}
 
@@ -9970,7 +9968,7 @@ packages:
     resolution: {integrity: sha512-p4a9I6X6nu6IhoGmBqAcbJy1mlC4j27vEPZX9F4L4/vZT3Lyq1VkFHw/V/PUcB9Buo+DG3iHkT0x3Qya58zc3g==}
 
   yeast@0.1.2:
-    resolution: {integrity: sha1-AI4G2AlDIMNy28L47XagymyKxBk=}
+    resolution: {integrity: sha512-8HFIh676uyGYP6wP13R/j6OJ/1HwJ46snpvzE7aHAN3Ryqh2yX6Xox2B4CUmTwwOIzlG3Bs7ocsP5dZH/R1Qbg==}
 
   ylru@1.4.0:
     resolution: {integrity: sha512-2OQsPNEmBCvXuFlIni/a+Rn+R2pHW9INm0BxXJ4hVDA8TirqMj+J/Rp9ItLatT/5pZqWwefVrTQcHpixsxnVlA==}
@@ -10826,10 +10824,6 @@ snapshots:
     dependencies:
       regenerator-runtime: 0.13.11
 
-  '@babel/runtime@7.26.0':
-    dependencies:
-      regenerator-runtime: 0.14.1
-
   '@babel/template@7.25.9':
     dependencies:
       '@babel/code-frame': 7.26.2
@@ -10866,14 +10860,14 @@ snapshots:
 
   '@dcloudio/types@3.4.14': {}
 
-  '@dcloudio/uni-app-plus@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-app-plus@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-app@2.0.2-4020420240722004(@dcloudio/types@3.4.14)(@vue/composition-api@1.7.2(vue@2.6.14))':
+  '@dcloudio/uni-app@2.0.2-4060620250520001(@dcloudio/types@3.4.14)(@vue/composition-api@1.7.2(vue@2.6.14))':
     dependencies:
       '@dcloudio/types': 3.4.14
       '@vue/composition-api': 1.7.2(vue@2.6.14)
 
-  '@dcloudio/uni-automator@2.0.2-4020420240722004(adbkit@2.11.1)(node-simctl@6.6.0)(puppeteer@1.20.0)':
+  '@dcloudio/uni-automator@2.0.2-4060620250520001(adbkit@2.11.1)(node-simctl@6.6.0)(puppeteer@1.20.0)':
     dependencies:
       adbkit: 2.11.1
       address: 1.2.2
@@ -10894,34 +10888,36 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@dcloudio/uni-cli-i18n@2.0.2-4020420240722004':
+  '@dcloudio/uni-cli-i18n@2.0.2-4060620250520001':
     dependencies:
       i18n: 0.13.4
       os-locale-s-fix: 1.0.8-fix-1
     transitivePeerDependencies:
       - supports-color
 
-  '@dcloudio/uni-cli-shared@2.0.2-4020420240722004':
+  '@dcloudio/uni-cli-shared@2.0.2-4060620250520001':
     dependencies:
       escape-string-regexp: 4.0.0
       fast-glob: 3.3.2
+      fs-extra: 10.1.0
       glob-escape: 0.0.2
       hash-sum: 1.0.2
       postcss-urlrewrite: 0.2.2
       strip-json-comments: 2.0.1
 
-  '@dcloudio/uni-h5@2.0.2-4020420240722004':
+  '@dcloudio/uni-h5@2.0.2-4060620250520001':
     dependencies:
       base64-arraybuffer: 0.2.0
       intersection-observer: 0.7.0
       pako: 1.0.11
+      postcss-urlrewrite: 0.3.0
       safe-area-insets: 1.4.1
 
   '@dcloudio/uni-helper-json@1.0.13': {}
 
-  '@dcloudio/uni-i18n@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-i18n@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-migration@2.0.2-4020420240722004':
+  '@dcloudio/uni-migration@2.0.2-4060620250520001':
     dependencies:
       commander: 4.1.1
       fs-extra: 8.1.0
@@ -10929,29 +10925,29 @@ snapshots:
       recast: 0.23.9
       stricter-htmlparser2: 3.9.6
 
-  '@dcloudio/uni-mp-360@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-360@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-alipay@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-alipay@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-baidu@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-baidu@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-jd@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-jd@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-kuaishou@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-kuaishou@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-lark@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-lark@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-qq@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-qq@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-toutiao@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-toutiao@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-vue@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-vue@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-weixin@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-weixin@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-mp-xhs@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-mp-xhs@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-quickapp-native@2.0.2-4020420240722004(@vue/compiler-sfc@3.5.13)(ejs@3.1.10)(lodash@4.17.21)(mustache@3.2.1)(webpack@4.47.0)':
+  '@dcloudio/uni-quickapp-native@2.0.2-4060620250520001(@vue/compiler-sfc@3.5.13)(ejs@3.1.10)(lodash@4.17.21)(mustache@3.2.1)(webpack@4.47.0)':
     dependencies:
       '@hap-toolkit/dsl-vue': 0.6.13(@vue/compiler-sfc@3.5.13)(ejs@3.1.10)(lodash@4.17.21)(mustache@3.2.1)(webpack@4.47.0)
       '@hap-toolkit/packager': 0.6.13
@@ -11022,13 +11018,13 @@ snapshots:
       - webpack-command
       - whiskers
 
-  '@dcloudio/uni-quickapp-webview@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-quickapp-webview@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-stacktracey@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-stacktracey@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-stat@2.0.2-4020420240722004': {}
+  '@dcloudio/uni-stat@2.0.2-4060620250520001': {}
 
-  '@dcloudio/uni-template-compiler@2.0.2-4020420240722004':
+  '@dcloudio/uni-template-compiler@2.0.2-4060620250520001':
     dependencies:
       '@babel/parser': 7.26.2
       '@babel/template': 7.25.9
@@ -11038,17 +11034,17 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@dcloudio/vue-cli-plugin-hbuilderx@2.0.2-4020420240722004':
+  '@dcloudio/vue-cli-plugin-hbuilderx@2.0.2-4060620250520001':
     dependencies:
       acorn: 5.7.4
       css: 2.2.4
       escodegen: 1.14.3
 
-  '@dcloudio/vue-cli-plugin-uni-optimize@2.0.2-4020420240722004': {}
+  '@dcloudio/vue-cli-plugin-uni-optimize@2.0.2-4060620250520001': {}
 
-  '@dcloudio/vue-cli-plugin-uni@2.0.2-4020420240722004(copy-webpack-plugin@9.1.0(webpack@4.47.0))(postcss@7.0.39)':
+  '@dcloudio/vue-cli-plugin-uni@2.0.2-4060620250520001(copy-webpack-plugin@9.1.0(webpack@4.47.0))(postcss@7.0.39)':
     dependencies:
-      '@dcloudio/uni-stat': 2.0.2-4020420240722004
+      '@dcloudio/uni-stat': 2.0.2-4060620250520001
       buffer-json: 2.0.0
       clone-deep: 4.0.1
       copy-webpack-plugin: 9.1.0(webpack@4.47.0)
@@ -11070,9 +11066,9 @@ snapshots:
       wrap-loader: 0.2.0
       xregexp: 4.0.0
 
-  '@dcloudio/webpack-uni-mp-loader@2.0.2-4020420240722004': {}
+  '@dcloudio/webpack-uni-mp-loader@2.0.2-4060620250520001': {}
 
-  '@dcloudio/webpack-uni-pages-loader@2.0.2-4020420240722004':
+  '@dcloudio/webpack-uni-pages-loader@2.0.2-4060620250520001':
     dependencies:
       merge: 2.1.1
       strip-json-comments: 2.0.1
@@ -11372,7 +11368,7 @@ snapshots:
 
   '@hap-toolkit/server@0.6.13':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@hap-toolkit/debugger': 0.6.15
       '@hap-toolkit/packager': 0.6.13
       '@hap-toolkit/shared-utils': 0.6.15
@@ -11622,7 +11618,7 @@ snapshots:
 
   '@jimp/bmp@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       bmp-js: 0.1.0
@@ -11630,7 +11626,7 @@ snapshots:
 
   '@jimp/core@0.10.3(debug@4.3.7)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/utils': 0.10.3
       any-base: 1.1.0
       buffer: 5.7.1
@@ -11647,7 +11643,7 @@ snapshots:
 
   '@jimp/custom@0.10.3(debug@4.3.7)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/core': 0.10.3(debug@4.3.7)
       core-js: 3.39.0
     transitivePeerDependencies:
@@ -11655,7 +11651,7 @@ snapshots:
 
   '@jimp/gif@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
@@ -11663,7 +11659,7 @@ snapshots:
 
   '@jimp/jpeg@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
@@ -11671,28 +11667,28 @@ snapshots:
 
   '@jimp/plugin-blit@0.10.3(@jimp/custom@0.10.3)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-blur@0.10.3(@jimp/custom@0.10.3)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-circle@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-color@0.10.3(@jimp/custom@0.10.3)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
@@ -11700,7 +11696,7 @@ snapshots:
 
   '@jimp/plugin-contain@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(@jimp/plugin-blit@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-scale@0.10.3(@jimp/custom@0.10.3)(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3)))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-blit': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/plugin-resize': 0.10.3(@jimp/custom@0.10.3)
@@ -11710,7 +11706,7 @@ snapshots:
 
   '@jimp/plugin-cover@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(@jimp/plugin-crop@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-scale@0.10.3(@jimp/custom@0.10.3)(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3)))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-crop': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/plugin-resize': 0.10.3(@jimp/custom@0.10.3)
@@ -11720,35 +11716,35 @@ snapshots:
 
   '@jimp/plugin-crop@0.10.3(@jimp/custom@0.10.3)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-displace@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-dither@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-fisheye@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-flip@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(@jimp/plugin-rotate@0.10.3(@jimp/custom@0.10.3)(@jimp/plugin-blit@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-crop@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3)))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-rotate': 0.10.3(@jimp/custom@0.10.3)(@jimp/plugin-blit@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-crop@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3))
       '@jimp/utils': 0.10.3
@@ -11756,35 +11752,35 @@ snapshots:
 
   '@jimp/plugin-gaussian@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-invert@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-mask@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-normalize@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-print@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(@jimp/plugin-blit@0.10.3(@jimp/custom@0.10.3))(debug@4.3.7)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-blit': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/utils': 0.10.3
@@ -11795,14 +11791,14 @@ snapshots:
 
   '@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
 
   '@jimp/plugin-rotate@0.10.3(@jimp/custom@0.10.3)(@jimp/plugin-blit@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-crop@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-blit': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/plugin-crop': 0.10.3(@jimp/custom@0.10.3)
@@ -11812,7 +11808,7 @@ snapshots:
 
   '@jimp/plugin-scale@0.10.3(@jimp/custom@0.10.3)(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-resize': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/utils': 0.10.3
@@ -11820,7 +11816,7 @@ snapshots:
 
   '@jimp/plugin-shadow@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(@jimp/plugin-blur@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-blur': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/plugin-resize': 0.10.3(@jimp/custom@0.10.3)
@@ -11829,7 +11825,7 @@ snapshots:
 
   '@jimp/plugin-threshold@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(@jimp/plugin-color@0.10.3(@jimp/custom@0.10.3))(@jimp/plugin-resize@0.10.3(@jimp/custom@0.10.3))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-color': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/plugin-resize': 0.10.3(@jimp/custom@0.10.3)
@@ -11838,7 +11834,7 @@ snapshots:
 
   '@jimp/plugins@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(debug@4.3.7)':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugin-blit': 0.10.3(@jimp/custom@0.10.3)
       '@jimp/plugin-blur': 0.10.3(@jimp/custom@0.10.3)
@@ -11868,7 +11864,7 @@ snapshots:
 
   '@jimp/png@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/utils': 0.10.3
       core-js: 3.39.0
@@ -11876,14 +11872,14 @@ snapshots:
 
   '@jimp/tiff@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       core-js: 3.39.0
       utif: 2.0.1
 
   '@jimp/types@0.10.3(@jimp/custom@0.10.3(debug@4.3.7))':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/bmp': 0.10.3(@jimp/custom@0.10.3(debug@4.3.7))
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/gif': 0.10.3(@jimp/custom@0.10.3(debug@4.3.7))
@@ -11895,7 +11891,7 @@ snapshots:
 
   '@jimp/utils@0.10.3':
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       core-js: 3.39.0
       regenerator-runtime: 0.13.11
 
@@ -12036,7 +12032,7 @@ snapshots:
 
   '@plugin-light/shared@0.0.11':
     dependencies:
-      t-comm: 1.5.14
+      t-comm: 1.5.28
     transitivePeerDependencies:
       - debug
 
@@ -12052,7 +12048,7 @@ snapshots:
       '@plugin-light/shared': 0.0.11
       '@plugin-light/webpack-plugin-add-common-vendor': 0.0.4
       '@plugin-light/webpack-plugin-dispatch-vue': 0.0.4
-      t-comm: 1.5.14
+      t-comm: 1.5.28
     transitivePeerDependencies:
       - debug
 
@@ -12060,7 +12056,7 @@ snapshots:
     dependencies:
       '@plugin-light/shared': 0.0.11
       '@plugin-light/webpack-plugin-fix-npm-package': 0.0.5
-      t-comm: 1.5.14
+      t-comm: 1.5.28
     transitivePeerDependencies:
       - debug
 
@@ -12073,14 +12069,14 @@ snapshots:
   '@plugin-light/webpack-plugin-gen-version@0.0.5':
     dependencies:
       '@plugin-light/shared': 0.0.11
-      t-comm: 1.5.14
+      t-comm: 1.5.28
     transitivePeerDependencies:
       - debug
 
   '@plugin-light/webpack-plugin-rem-to-rpx@0.0.4':
     dependencies:
       '@plugin-light/shared': 0.0.11
-      t-comm: 1.5.14
+      t-comm: 1.5.28
     transitivePeerDependencies:
       - debug
 
@@ -12179,18 +12175,18 @@ snapshots:
 
   '@soda/get-current-script@1.0.2': {}
 
-  '@stylelint/postcss-css-in-js@0.37.3(postcss-syntax@0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39))(postcss@7.0.39)':
+  '@stylelint/postcss-css-in-js@0.37.3(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39)':
     dependencies:
       '@babel/core': 7.26.0
       postcss: 7.0.39
-      postcss-syntax: 0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
+      postcss-syntax: 0.36.2(postcss-html@0.36.0)(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
     transitivePeerDependencies:
       - supports-color
 
-  '@stylelint/postcss-markdown@0.36.2(postcss-syntax@0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39))(postcss@7.0.39)':
+  '@stylelint/postcss-markdown@0.36.2(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39)':
     dependencies:
       postcss: 7.0.39
-      postcss-syntax: 0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
+      postcss-syntax: 0.36.2(postcss-html@0.36.0)(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
       remark: 13.0.0
       unist-util-find-all-after: 3.0.2
     transitivePeerDependencies:
@@ -12670,7 +12666,7 @@ snapshots:
       '@babel/plugin-syntax-jsx': 7.25.9(@babel/core@7.26.0)
       '@babel/plugin-transform-runtime': 7.25.9(@babel/core@7.26.0)
       '@babel/preset-env': 7.26.0(@babel/core@7.26.0)
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@vue/babel-plugin-jsx': 1.2.5(@babel/core@7.26.0)
       '@vue/babel-preset-jsx': 1.4.0(@babel/core@7.26.0)(vue@2.6.14)
       babel-plugin-dynamic-import-node: 2.3.3
@@ -13663,7 +13659,7 @@ snapshots:
 
   asyncbox@2.9.4:
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@types/bluebird': 3.5.42
       bluebird: 3.7.2
       lodash: 4.17.21
@@ -17575,7 +17571,7 @@ snapshots:
 
   jimp@0.10.3(debug@4.3.7):
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@jimp/custom': 0.10.3(debug@4.3.7)
       '@jimp/plugins': 0.10.3(@jimp/custom@0.10.3(debug@4.3.7))(debug@4.3.7)
       '@jimp/types': 0.10.3(@jimp/custom@0.10.3(debug@4.3.7))
@@ -18553,7 +18549,7 @@ snapshots:
 
   node-simctl@6.6.0:
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       asyncbox: 2.9.4
       bluebird: 3.7.2
       lodash: 4.17.21
@@ -19048,7 +19044,7 @@ snapshots:
       progress-bar-webpack-plugin: 2.1.0(webpack@4.47.0)
       rollup-plugin-visualizer: 5.12.0(rollup@2.79.2)
       script-ext-html-webpack-plugin: 2.1.5(html-webpack-plugin@5.6.3(webpack@4.47.0))(webpack@4.47.0)
-      t-comm: 1.5.14
+      t-comm: 1.5.28
       uni-read-pages: 1.0.5
       unplugin-auto-import: 0.18.5(rollup@2.79.2)
       unplugin-vue-components: 0.27.4(@babel/parser@7.26.2)(rollup@2.79.2)(vue@2.6.14)
@@ -19156,7 +19152,7 @@ snapshots:
     dependencies:
       htmlparser2: 3.10.1
       postcss: 7.0.39
-      postcss-syntax: 0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
+      postcss-syntax: 0.36.2(postcss-html@0.36.0)(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
 
   postcss-import@12.0.1:
     dependencies:
@@ -19367,7 +19363,7 @@ snapshots:
       postcss-value-parser: 4.2.0
       svgo: 2.8.0
 
-  postcss-syntax@0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39):
+  postcss-syntax@0.36.2(postcss-html@0.36.0)(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39):
     dependencies:
       postcss: 7.0.39
     optionalDependencies:
@@ -19381,6 +19377,10 @@ snapshots:
       postcss-selector-parser: 6.1.2
 
   postcss-urlrewrite@0.2.2:
+    dependencies:
+      postcss-helpers: 0.3.3
+
+  postcss-urlrewrite@0.3.0:
     dependencies:
       postcss-helpers: 0.3.3
 
@@ -19458,7 +19458,7 @@ snapshots:
     transitivePeerDependencies:
       - debug
 
-  press-ui@3.0.13: {}
+  press-ui@3.0.17: {}
 
   prettier@2.8.8:
     optional: true
@@ -19742,7 +19742,7 @@ snapshots:
 
   regenerator-transform@0.15.2:
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
 
   regex-cache@0.4.4:
     dependencies:
@@ -20660,8 +20660,8 @@ snapshots:
 
   stylelint@13.13.1:
     dependencies:
-      '@stylelint/postcss-css-in-js': 0.37.3(postcss-syntax@0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39))(postcss@7.0.39)
-      '@stylelint/postcss-markdown': 0.36.2(postcss-syntax@0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39))(postcss@7.0.39)
+      '@stylelint/postcss-css-in-js': 0.37.3(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39)
+      '@stylelint/postcss-markdown': 0.36.2(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39)
       autoprefixer: 9.8.8
       balanced-match: 2.0.0
       chalk: 4.1.2
@@ -20695,7 +20695,7 @@ snapshots:
       postcss-sass: 0.4.4
       postcss-scss: 2.1.1
       postcss-selector-parser: 6.1.2
-      postcss-syntax: 0.36.2(postcss-html@0.36.0(postcss-syntax@0.36.2(postcss@7.0.39))(postcss@7.0.39))(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
+      postcss-syntax: 0.36.2(postcss-html@0.36.0)(postcss-less@3.1.4)(postcss-scss@2.1.1)(postcss@7.0.39)
       postcss-value-parser: 4.2.0
       resolve-from: 5.0.0
       slash: 3.0.0
@@ -20786,54 +20786,9 @@ snapshots:
 
   systemjs@6.15.1: {}
 
-  t-comm@1.5.14:
-    dependencies:
-      '@babel/runtime': 7.26.0
-      '@commitlint/config-conventional': 17.8.1
-      axios: 1.7.7
-      cheerio: 1.0.0
-      commander: 10.0.1
-      cron-parser: 4.9.0
-      qs: 6.13.1
-      request: 2.88.2
-      t-comm: 1.5.15
-      tar: 6.2.1
-    transitivePeerDependencies:
-      - debug
-
-  t-comm@1.5.15:
-    dependencies:
-      '@babel/runtime': 7.26.0
-      '@commitlint/config-conventional': 17.8.1
-      axios: 1.7.7
-      cheerio: 1.0.0
-      commander: 10.0.1
-      cron-parser: 4.9.0
-      qs: 6.13.1
-      request: 2.88.2
-      t-comm: 1.5.24
-      tar: 6.2.1
-    transitivePeerDependencies:
-      - debug
-
-  t-comm@1.5.24:
-    dependencies:
-      '@babel/runtime': 7.26.0
-      '@commitlint/config-conventional': 17.8.1
-      axios: 1.7.7
-      cheerio: 1.0.0
-      commander: 10.0.1
-      cron-parser: 4.9.0
-      qs: 6.13.1
-      request: 2.88.2
-      t-comm: 1.5.28
-      tar: 6.2.1
-    transitivePeerDependencies:
-      - debug
-
   t-comm@1.5.28:
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@commitlint/config-conventional': 17.8.1
       axios: 1.7.7
       cheerio: 1.0.0
@@ -20878,7 +20833,7 @@ snapshots:
 
   teen_process@1.16.0:
     dependencies:
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       bluebird: 3.7.2
       lodash: 4.17.21
       shell-quote: 1.8.1
@@ -21794,6 +21749,10 @@ snapshots:
     dependencies:
       defaults: 1.0.4
 
+  weapp-qrcode-canvas-2d@1.1.6:
+    dependencies:
+      extend: 3.0.2
+
   webidl-conversions@3.0.1: {}
 
   webidl-conversions@4.0.2: {}
@@ -22113,7 +22072,7 @@ snapshots:
       '@apideck/better-ajv-errors': 0.3.6(ajv@8.17.1)
       '@babel/core': 7.26.0
       '@babel/preset-env': 7.26.0(@babel/core@7.26.0)
-      '@babel/runtime': 7.26.0
+      '@babel/runtime': 7.17.9
       '@rollup/plugin-babel': 5.3.1(@babel/core@7.26.0)(@types/babel__core@7.20.5)(rollup@2.79.2)
       '@rollup/plugin-node-resolve': 11.2.1(rollup@2.79.2)
       '@rollup/plugin-replace': 2.4.2(rollup@2.79.2)
