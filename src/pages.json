@@ -138,6 +138,12 @@
           }
         },
         {
+          "path": "password-input/password-input",
+          "style": {
+            "navigationBarTitleText": ""
+          }
+        },
+        {
           "path": "picker/picker",
           "style": {
             "navigationBarTitleText": ""
