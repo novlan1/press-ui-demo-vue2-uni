@@ -426,6 +426,12 @@
           }
         },
         {
+          "path": "watermark/watermark",
+          "style": {
+            "navigationBarTitleText": ""
+          }
+        },
+        {
           "path": "back-top/back-top",
           "style": {
             "navigationBarTitleText": ""
