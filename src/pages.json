@@ -456,6 +456,12 @@
           }
         },
         {
+          "path": "pagination/pagination",
+          "style": {
+            "navigationBarTitleText": ""
+          }
+        },
+        {
           "path": "sidebar/sidebar",
           "style": {
             "navigationBarTitleText": ""
@@ -499,12 +505,6 @@
         },
         {
           "path": "loading-plus/loading-plus",
-          "style": {
-            "navigationBarTitleText": ""
-          }
-        },
-        {
-          "path": "pagination/pagination",
           "style": {
             "navigationBarTitleText": ""
           }
